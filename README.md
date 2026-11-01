@@ -120,7 +120,17 @@ For automated, multi-domain evidence correlation and report generation, see the 
 
 ## Safety notice
 
-These scripts are provided for engineering assessment and demonstration. Validate permissions, version compatibility, workload impact, and result interpretation before production use. Missing-index DMVs, wait statistics, cached-plan DMVs, and cumulative counters must not be treated as stand-alone proof of root cause.
+These scripts are provided for engineering assessment, demonstration, and controlled evaluation. Validate permissions, version compatibility, workload impact, and result interpretation before production use. Read-only queries can still consume resources on busy instances.
+
+Missing-index DMVs, wait statistics, cached-plan DMVs, and cumulative counters must not be treated as stand-alone proof of root cause.
+
+Diagnostic output may contain sensitive query text, object names, login details, or infrastructure information. Review and sanitize results before sharing.
+
+## Implementation and Support
+
+Review and adapt the scripts and runbooks to the target environment. Recommendations require DBA judgment and validation against workload requirements and organizational change procedures.
+
+For environment-specific assessment, implementation guidance, or customization, contact [Louis Achungo on LinkedIn](https://www.linkedin.com/in/louis-achungo/).
 
 ## Author
 
