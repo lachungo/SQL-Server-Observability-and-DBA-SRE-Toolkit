@@ -132,14 +132,22 @@ Review and adapt the scripts and runbooks to the target environment. Recommendat
 
 For environment-specific assessment, implementation guidance, or customization, contact [Louis Achungo on LinkedIn](https://www.linkedin.com/in/louis-achungo/).
 
-## Author
+## 🔗 Connect
+
+- 🌐 Portfolio: https://sql-it-techsolutions.com/  
+- 💼 LinkedIn: https://linkedin.com/in/louis-achungo  
+
+---
+
+⭐ If this helped, consider starring the repo.
+
+---
 
 **Louis Achungo**  
-Principal SQL Server Architect | Senior SQL Server DBA | Database Reliability Engineering
+Principal SQL Server Architect | Performance Engineering | HA/DR | Azure SQL & AWS
 
-- [GitHub](https://github.com/lachungo)
-- [LinkedIn](https://www.linkedin.com/in/louis-achungo)
-- [Portfolio](https://sql-it-techsolutions.com/)
+*Building reliable, observable, and scalable database platforms through architecture, automation, and operational excellence.*
+
 
 ## License
 
